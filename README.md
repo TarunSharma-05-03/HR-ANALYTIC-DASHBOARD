@@ -1,5 +1,7 @@
 # HR-ANALYTIC-DASHBOARD
 HR-Analytics Dashboard using SQL Server and Power BI
+
+
 I build this project to practice SQl amd Power BI together.
 
 **what i Did**
