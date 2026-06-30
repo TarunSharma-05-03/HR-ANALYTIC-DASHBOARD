@@ -99,3 +99,8 @@ Avg Age = AVERAGE(vw_HR_Employees[Age])
 Avg Salary K = DIVIDE(AVERAGE(vw_HR_Employees[MonthlyIncome]), 1000)
 
 Avg Years = AVERAGE(vw_HR_Employees[YearsAtCompany])
+
+
+**WHAT I LEARNED**
+
+This project taught me that getting the data right matter more than making the dashboard look good. Most of the time i spent here was not on building charts, it was on fixing import issues and validation numbers before trusting them. That's a habbit i want to carry into any real data project going forward.
