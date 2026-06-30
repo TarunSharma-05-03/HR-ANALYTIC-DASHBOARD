@@ -25,7 +25,7 @@ HR Analytics dataset from kaggle. 1470 rows and 38 columns - age,salary,job role
 
 **Files in This Repo**
 
-File                                                                           What it does
+                                                                      
 create table.sql                                                 Table structure with all column names and data types
 
 
@@ -33,8 +33,9 @@ Remove_duplicates.sql                                            Removes 10 dupl
 
 
 views.sql                                                        8 SQL views that Power BI connects to
+
+
 validation.sql                                              Queries I ran to verify all numbers before building the dashboard
-Dashboard Numbers
 
 
 
